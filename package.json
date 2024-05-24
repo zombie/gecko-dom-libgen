@@ -1,0 +1,45 @@
+{
+  "name": "gecko-dom-libgen",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Packaged @microsoft/TypeScript-DOM-lib-generator customized for Gecko webidl.",
+  "keywords": [
+    "typescript",
+    "web",
+    "api",
+    "dom",
+    "webidl",
+    "gecko"
+  ],
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testMatch **/*.test.cjs"
+  },
+  "author": {
+    "name": "Tomislav Jovanovic",
+    "email": "tomica@gmail.com",
+    "url": "https://github.com/zombie"
+  },
+  "contributors": [
+    "Kagami Sascha Rosylight",
+    "Microsoft Corp.",
+    "Mozilla"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/gecko-dom-libgen/"
+  },
+  "license": "Apache-2.0",
+  "type": "module",
+  "peerDependencies": {
+    "@mdn/browser-compat-data": "^5.5.21",
+    "@webref/css": "^6.12.7",
+    "@webref/elements": "^2.3.0",
+    "@webref/idl": "^3.46.1",
+    "bcd-idl-mapper": "^2.3.0",
+    "jsonc-parser": "^3.2.1",
+    "webidl2": "^24.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

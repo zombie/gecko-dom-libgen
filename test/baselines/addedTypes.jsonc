@@ -1,0 +1,223 @@
+{
+  "interfaces": {
+    "interface": {
+      "WrapperCachedNonISupportsTestInterface": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "WrapperCachedNonISupportsTestInterface" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestTrialInterface": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestTrialInterface" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceLength": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceLength" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestFunctions": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestFunctions" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceJS": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceJS" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceMaplike": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceMaplike" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceMaplikeObject": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceMaplikeObject" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceMaplikeJSObject": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceMaplikeJSObject" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceSetlike": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceSetlike" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceSetlikeNode": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceSetlikeNode" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceIterableSingle": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceIterableSingle" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceIterableDouble": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceIterableDouble" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceIterableDoubleUnion": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceIterableDoubleUnion" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceAsyncIterableSingle": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceAsyncIterableSingle" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceAsyncIterableSingleWithArgs": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceAsyncIterableSingleWithArgs" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceAsyncIterableDouble": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceAsyncIterableDouble" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceAsyncIterableDoubleUnion": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceAsyncIterableDoubleUnion" },
+              "static": true
+            }
+          }
+        }
+      },
+      "TestInterfaceObservableArray": {
+        "properties": {
+          "property": {
+            "isInstance": {
+              "name": "isInstance",
+              "type": "IsInstance",
+              "subtype": { "type": "TestInterfaceObservableArray" },
+              "static": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "typedefs": { "typedef": [] }
+}

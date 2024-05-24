@@ -1,0 +1,1264 @@
+{
+  "api": {
+    "AnyCallback": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "IsInstance": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "Location": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "Node": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "DictWithAllowSharedBufferSource": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "WrapperCachedNonISupportsTestInterface": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestTrialInterface": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceLength": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestFunctions": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "one": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "two": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "wrapperCachedNonISupportsObject": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "clampedNullableOctet": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "enforcedNullableOctet": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "arrayBufferView": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "allowSharedArrayBufferView": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "sequenceOfArrayBufferView": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "sequenceOfAllowSharedArrayBufferView": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "arrayBuffer": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "allowSharedArrayBuffer": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "sequenceOfArrayBuffer": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "sequenceOfAllowSharedArrayBuffer": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "throwUncatchableException_static": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "passThroughPromise_static": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "passThroughCallbackPromise_static": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "setStringData": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getStringDataAsAString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getStringDataAsDOMString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getShortLiteralString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getMediumLiteralString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getLongLiteralString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getStringbufferString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getStringType": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "stringbufferMatchesStored": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowNsresult": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowNsresultFromNative": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "throwToRejectPromise_static": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "toJSON": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testNotAllowShared": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testAllowShared": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testDictWithAllowShared": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testUnionOfBuffferSource": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testUnionOfAllowSharedBuffferSource": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "staticAndNonStaticOverload": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceJSUnionableDictionary": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceJS": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "anyArg": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectArg": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "anyAttr": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectAttr": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "onsomething": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getDictionaryArg": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getDictionaryAttr": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "setDictionaryAttr": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongAny": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongObject": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongObjectOrString": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongDictionary": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongDictionaryOrLong": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongRecord": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectSequenceLength": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "anySequenceLength": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getCallerPrincipal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "convertSVS": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongUnion": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongUnionContainingNull": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "pingPongNullableUnion": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "returnBadUnion": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testSequenceOverload": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testSequenceUnion": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowError": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowDOMException": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowTypeError": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowCallbackError": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowXraySelfHosted": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testThrowSelfHosted": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingChromePromiseInit": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingContentPromiseInit": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithDOMExceptionThrowingPromiseInit": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingChromeThenFunction": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingContentThenFunction": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithDOMExceptionThrowingThenFunction": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingChromeThenable": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithThrowingContentThenable": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "testPromiseWithDOMExceptionThrowingThenable": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceJSDictionary2": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceJSDictionary": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceAsyncIterableSingleOptions": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceAsyncIteratorOptions": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceMaplike": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "setInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "clearInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "deleteInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "hasInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceMaplikeObject": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "setInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "clearInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "deleteInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "hasInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceMaplikeJSObject": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "setInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "clearInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "deleteInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "hasInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "getInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceSetlike": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceSetlikeNode": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceIterableSingle": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "length": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceIterableDouble": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceIterableDoubleUnion": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "forEach": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "values": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceAsyncIterableSingle": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceAsyncIterableSingleWithArgs": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "returnCallCount": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "returnLastCalledWith": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestInterfaceAsyncIterableDouble": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceAsyncIterableDoubleUnion": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "ObservableArrayCallbacks": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      }
+    },
+    "TestInterfaceObservableArray": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        }
+      },
+      "observableArrayBoolean": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "observableArrayObject": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "observableArrayInterface": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "booleanElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "interfaceElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "booleanReplaceElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "interfaceReplaceElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectReplaceElementAtInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "booleanAppendElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "interfaceAppendElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectAppendElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "booleanRemoveLastElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "interfaceRemoveLastElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectRemoveLastElementInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "booleanLengthInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "interfaceLengthInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      },
+      "objectLengthInternal": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    },
+    "TestUtils": {
+      "__compat": {
+        "support": {
+          "firefox": { "version_added": 1 },
+          "safari": { "version_added": 1 }
+        },
+        "mdn_url": "data:,",
+        "status": { "deprecated": 1 }
+      },
+      "gc_static": {
+        "__compat": {
+          "support": {
+            "firefox": { "version_added": 1 },
+            "safari": { "version_added": 1 }
+          }
+        }
+      }
+    }
+  },
+  "css": { "properties": {} },
+  "webassembly": {}
+}
