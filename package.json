@@ -2,18 +2,13 @@
   "name": "gecko-dom-libgen",
   "version": "0.0.1",
   "private": true,
-  "description": "Packaged @microsoft/TypeScript-DOM-lib-generator customized for Gecko webidl.",
+  "description": "Packaged TypeScript-DOM-lib-generator customized for Gecko.",
   "keywords": [
-    "typescript",
-    "web",
-    "api",
     "dom",
-    "webidl",
-    "gecko"
+    "gecko",
+    "typescript",
+    "webidl"
   ],
-  "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testMatch **/*.test.cjs"
-  },
   "author": {
     "name": "Tomislav Jovanovic",
     "email": "tomica@gmail.com",
@@ -30,16 +25,8 @@
   },
   "license": "Apache-2.0",
   "type": "module",
-  "peerDependencies": {
-    "@mdn/browser-compat-data": "^5.5.21",
-    "@webref/css": "^6.12.7",
+  "dependencies": {
     "@webref/elements": "^2.3.0",
-    "@webref/idl": "^3.46.1",
-    "bcd-idl-mapper": "^2.3.0",
-    "jsonc-parser": "^3.2.1",
     "webidl2": "^24.4.1"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
   }
 }
