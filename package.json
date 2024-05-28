@@ -2,7 +2,7 @@
   "name": "gecko-dom-libgen",
   "version": "0.0.1",
   "private": true,
-  "description": "Packaged TypeScript-DOM-lib-generator customized for Gecko.",
+  "description": "Packaged TypeScript-DOM-lib-generator with custom exports for Gecko.",
   "keywords": [
     "dom",
     "gecko",
@@ -26,7 +26,6 @@
   "license": "Apache-2.0",
   "type": "module",
   "dependencies": {
-    "@webref/elements": "^2.3.0",
     "webidl2": "^24.4.1"
   }
 }
